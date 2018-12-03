@@ -34,7 +34,7 @@
 
 -(void)gridViewHeaderRefresh
 {
-    NSArray * arr = @[@{@"c1":@"1",
+    NSArray * arr = @[@{@"c1":@"2",
                         @"c2":@"2"},
                       @{@"c1":@"3",
                         @"c2":@"4"},
